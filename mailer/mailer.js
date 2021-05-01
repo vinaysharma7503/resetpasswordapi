@@ -77,7 +77,7 @@ function HTMLMailFormat(username, resetCode ){
                                                         Your verification code is: <b>${resetCode}</b>
                                                     </p>
                                                     <p style='font-family: Helvetica Neue,Arial,sans-serif; font-size: 15px; line-height: 18px; color: #2d2d2a; margin-top: 40px; margin-bottom: 10px'>Sincerely, <br>
-                                                        WeTour App Team
+                                                        Agicent App Team
                                                     </p>
                                                 </td>
                                             </tr>
